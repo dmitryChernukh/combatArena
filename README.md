@@ -1,2 +1,0 @@
-# combatArena
-Combat arena game
